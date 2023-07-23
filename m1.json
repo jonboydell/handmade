@@ -1,3 +1,13 @@
 {
-  "food" : ["sainsbury", "tesco"]
+  "food" : ["sainsbury", "tesco", "ocado", "milk", "m&s", "waitrose"],
+  "amazon" : ["amazon"],
+  "coffee" : ["grind", "sydney", "costa", "starbucks"],
+  "travel" : ["tfl", "railway", "abelio", "ferries"],
+  "vap": ["juul", "vapour"],
+  "clothes" : ["hm", "next"],
+  "refurb": ["resi"],
+  "petrol" : ["shell"],
+  "subs": ["netflix"],
+  "toiletries" : ["sephora", "modibodi", "ffs"],
+  "collctiv" : ["collctiv"]
 }
